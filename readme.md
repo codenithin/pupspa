@@ -1,4 +1,4 @@
-# Frontend Mentor - Stats preview card component solution
+# PupSpa from Codecademy
 
 This is a sample code for a Pup SPA using CSS Grid. 
 
